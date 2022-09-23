@@ -37,7 +37,7 @@ plt.plot(x,y_pred,color='red')
 plt.show()
 
 ```
-## Sample Input and Output
+## Output
 ![output](./input.jpg)
 ![output](./graph.png)
 ## Result
